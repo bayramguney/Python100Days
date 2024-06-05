@@ -69,7 +69,7 @@ def make_coffee(drink_name, order_ingredients):
     for item in order_ingredients:
         resources[item] -= order_ingredients[item]
     print(f"Here is your {drink_name} ☕️. Enjoy!")
-
+# https://emojipedia.org/hot-beveragehttps://emojipedia.org/hot-beverage
 
 is_on = True
 
